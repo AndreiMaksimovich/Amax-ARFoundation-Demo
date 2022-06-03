@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc39954def93458c92e13fd33045eaf9, type: 3}
+  m_Name: Amax.UI.Dialogs.ButtonLabels
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Amax.UI.Dialogs.ButtonLabels
+  <StringIdPrefix>k__BackingField: Amax.UI.Dialogs.ButtonLabel
+  <LocalizedStrings>k__BackingField:
+  - id: Unknown
+    values:
+      keys: 0a0000001e0000001b000000
+      values:
+      - Unknown
+      - Unknown
+      - Unknown
+  - id: OK
+    values:
+      keys: 0a0000001e0000001b000000
+      values:
+      - OK
+      - OK
+      - OK
+  - id: Cancel
+    values:
+      keys: 0a0000001e0000001b000000
+      values:
+      - Cancel
+      - "\u041E\u0442\u043C\u0435\u043D\u0430"
+      - Anuluj
+  - id: Yes
+    values:
+      keys: 0a0000001e0000001b000000
+      values:
+      - Yes
+      - "\u0414\u0430"
+      - Tak
+  - id: No
+    values:
+      keys: 0a0000001e0000001b000000
+      values:
+      - No
+      - "\u041D\u0435\u0442"
+      - Nie
+  - id: Abort
+    values:
+      keys: 0a0000001e0000001b000000
+      values:
+      - Abort
+      - "\u041F\u0440\u0435\u0440\u0432\u0430\u0442\u044C"
+      - "Przerwa\u0107"
+  - id: Close
+    values:
+      keys: 0a0000001e0000001b000000
+      values:
+      - Close
+      - "\u0417\u0430\u043A\u0440\u044B\u0442\u044C"
+      - Zamknij
+  <LocalizedStringGroups>k__BackingField: []
